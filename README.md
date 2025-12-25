@@ -1,5 +1,5 @@
-#End-to-End Databricks Data Engineering Project
-##Modern Data Warehouse & Analytics on Databricks
+# End-to-End Databricks Data Engineering Project
+## Modern Data Warehouse & Analytics on Databricks
 
 Welcome to the End-to-End Databricks Data Engineering Project repository! 
 
@@ -7,7 +7,7 @@ This project showcases a modern, cloud-native data warehouse and analytics solut
 
 Designed as a portfolio-grade, enterprise-style data engineering project, it demonstrates the full lifecycle of data engineering - from raw data ingestion and deep ETL processing to dimensional modeling and analytics-ready data.
 
- Project Overview
+ ### Project Overview
 
 This project implements a Lakehouse-based Data Warehouse that:
 
@@ -23,7 +23,7 @@ Produces analytics-ready Gold tables for BI and reporting use cases
 
 The solution reflects real-world enterprise data engineering practices, replacing traditional SQL Server–based warehouses with a modern Databricks Lakehouse architecture.
 
-🧠 Key Concepts & Technologies
+### Key Concepts & Technologies
 
 Platform: Databricks
 
@@ -37,7 +37,7 @@ Modeling: Star Schema (Fact & Dimension Tables)
 
 Data Engineering Focus: End-to-end ETL, data quality, scalability
 
-🎯 Project Goals
+### Project Goals
 
 Demonstrate end-to-end ownership of a data engineering pipeline
 
